@@ -1,0 +1,11 @@
+#container {
+    margin: 0px auto;
+    width: min-content;
+    display: flex;
+    padding: 2px 10px;
+    background-color: white;
+}
+
+.bgc {
+    background-color: grey;
+}
