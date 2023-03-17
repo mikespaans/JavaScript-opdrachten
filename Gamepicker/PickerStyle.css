@@ -1,0 +1,26 @@
+#InputField {
+    margin-left: 500px;
+    /* background-color: black; */
+}
+
+#InputButton {
+    margin-left: 1px;
+}
+
+#GameItemDiv {
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 200px;
+
+
+    /* border: 1px solid black; */
+}
+
+body {
+    max-width: 70rem;
+    margin: 0 auto;
+}
+
+#GameDivParent {
+    display: flex;
+}

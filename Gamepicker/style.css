@@ -1,0 +1,92 @@
+.Linkjes a {
+    margin-right: 30px;
+    
+    /* display: inline-block; */
+    border: 1px solid black;
+    padding: 20px;
+  }
+
+.Linkjes{
+    border: 1px solid black;
+    padding: 30px;
+}
+
+.Linkjes :last-child{
+    margin-left: 700px;
+}
+
+.Body{
+    border: 1px solid black;
+    padding: 20px;
+}
+
+/* .MainInfo{
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid black;
+} */
+
+.MainInfo{
+    display: flex;
+    flex-direction: row;
+}
+
+.MainText{
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 16px;
+}
+
+.InfoClass{
+    border: 1px solid black;
+    
+    padding: 30px;
+    margin-top: 30px;
+    /* margin-bottom: 16px; */
+
+}
+
+.InfoClass li{
+    line-height: 26px;
+}
+
+.GameTags p {
+    border: 1px solid black;
+    padding: 5px;
+    margin-right: 20px;
+  }
+
+.GameTags{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+}
+  
+.Images{
+    border: 1px solid black;
+}
+
+.Images img{
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+}
+
+.Systeemeisen{
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+.Systeemeisen li{
+    padding-top: 10px;
+}
+
+.Recenties{
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+.Recenties li{
+    padding-top: 10px;
+}

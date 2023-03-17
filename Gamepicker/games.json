@@ -1,0 +1,295 @@
+[
+  {
+    "critic": 87,
+    "name": "Subnautica",
+    "price": 91.99,
+    "rating": 3,
+    "genres": [
+      "Open world"
+    ]
+  },
+  {
+    "critic": 82,
+    "name": "Subnautica: Below Zero",
+    "price": 10.99,
+    "rating": 3,
+    "genres": [
+      "Open world"
+    ]
+  },
+  {
+    "critic": 70,
+    "name": "ARK: Survival Evolved",
+    "price": 81.99,
+    "rating": 3,
+    "genres": [
+      "Survival",
+      "MMORPG"
+    ]
+  },
+  {
+    "critic": 83,
+    "name": "Terraria",
+    "price": 101.99,
+    "rating": 3,
+    "genres": [
+      "Sandbox"
+    ]
+  },
+  {
+    "critic": 90,
+    "name": "Portal",
+    "price": 95.99,
+    "rating": 3,
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Shooter"
+    ]
+  },
+  {
+    "critic": 0,
+    "name": "Aperture Desk Job",
+    "price": 68.99,
+    "rating": 3,
+    "genres": []
+  },
+  {
+    "critic": 95,
+    "name": "Portal 2",
+    "price": 96.99,
+    "rating": 3,
+    "genres": [
+      "Platform",
+      "Puzzle"
+    ]
+  },
+  {
+    "critic": 83,
+    "name": "Counter-Strike: Global Offensive",
+    "price": 77.99,
+    "rating": 4,
+    "genres": [
+      "Tactical shooter",
+      "Battle royale"
+    ]
+  },
+  {
+    "critic": 89,
+    "name": "Stardew Valley",
+    "price": 78.99,
+    "rating": 3,
+    "genres": [
+      "RPG",
+      "Simulation"
+    ]
+  },
+  {
+    "critic": 0,
+    "name": "Rust",
+    "price": 67.99,
+    "rating": 4,
+    "genres": [
+      "Action",
+      "Survival"
+    ]
+  },
+  {
+    "critic": 0,
+    "name": "Spore",
+    "price": 72.99,
+    "rating": 4,
+    "genres": [
+      "Life sim",
+      "RPG",
+      "Strategy"
+    ]
+  },
+  {
+    "critic": 0,
+    "name": "Unturned",
+    "price": 93.99,
+    "rating": 4,
+    "genres": [
+      "TPS",
+      "Open world"
+    ]
+  },
+  {
+    "critic": 70,
+    "name": "The Sims 4",
+    "price": 95.99,
+    "rating": 4,
+    "genres": [
+      "Life sim"
+    ]
+  },
+  {
+    "critic": 86,
+    "name": "The Sims 3",
+    "price": 32.99,
+    "rating": 4,
+    "genres": [
+      "Life sim",
+      "Sandbox",
+      "Building"
+    ]
+  },
+  {
+    "critic": 90,
+    "name": "The Sims 2",
+    "price": 100.99,
+    "rating": 4,
+    "genres": [
+      "Life sim"
+    ]
+  },
+  {
+    "critic": 92,
+    "name": "The Sims",
+    "price": 83.99,
+    "rating": 4,
+    "genres": [
+      "Life sim"
+    ]
+  },
+  {
+    "critic": 0,
+    "name": "Bloons Adventure Time TD",
+    "price": 58.99,
+    "rating": 3,
+    "genres": [
+      "Tower defense"
+    ]
+  },
+  {
+    "critic": 0,
+    "name": "Bloons TD 6",
+    "price": 101.99,
+    "rating": 4,
+    "genres": [
+      "Tower defense"
+    ]
+  },
+  {
+    "critic": 0,
+    "name": "Bloons TD 5",
+    "price": 42.99,
+    "rating": 4,
+    "genres": []
+  },
+  {
+    "critic": 0,
+    "name": "Bloons TD Battles",
+    "price": 80.99,
+    "rating": 3,
+    "genres": []
+  },
+  {
+    "critic": 0,
+    "name": "Bloons TD Battles 2",
+    "price": 16.99,
+    "rating": 3,
+    "genres": [
+      "Tower defense"
+    ]
+  },
+  {
+    "critic": 0,
+    "name": "Crab Game",
+    "price": 18.99,
+    "rating": 4,
+    "genres": [
+      "Party game"
+    ]
+  },
+  {
+    "critic": 68,
+    "name": "Splitgate",
+    "price": 46.99,
+    "rating": 4,
+    "genres": [
+      "Shooter"
+    ]
+  },
+  {
+    "critic": 93,
+    "name": "Minecraft: Java Edition",
+    "price": 51.99,
+    "rating": 3,
+    "genres": [
+      "Survival",
+      "Open world"
+    ]
+  },
+  {
+    "critic": 87,
+    "name": "Plants vs. Zombies",
+    "price": 41.99,
+    "rating": 4,
+    "genres": [
+      "Tower defense"
+    ]
+  },
+  {
+    "critic": 78,
+    "name": "Plants vs. Zombies: Garden Warfare",
+    "price": 49.99,
+    "rating": 3,
+    "genres": []
+  },
+  {
+    "critic": 82,
+    "name": "Plants vs. Zombies: Garden Warfare 2",
+    "price": 21.99,
+    "rating": 3,
+    "genres": []
+  },
+  {
+    "critic": 77,
+    "name": "Plants vs. Zombies: Battle for Neighborville",
+    "price": 100.99,
+    "rating": 3,
+    "genres": []
+  },
+  {
+    "critic": 0,
+    "name": "Paladins: Champions of the Realm",
+    "price": 26.99,
+    "rating": 4,
+    "genres": [
+      "Action",
+      "Shooter"
+    ]
+  },
+  {
+    "critic": 88,
+    "name": "Apex Legends",
+    "price": 101.99,
+    "rating": 4,
+    "genres": [
+      "Action",
+      "Battle royale",
+      "FPS"
+    ]
+  },
+  {
+    "critic": 81,
+    "name": "Elden Bling",
+    "price": 31.99,
+    "rating": 4,
+    "genres": [
+      "Moeilijk",
+      "Third Person Shooter"
+    ]
+  },
+  {
+    "critic": 89,
+    "name": "Fallout",
+    "price": 55.99,
+    "rating": 4,
+    "genres": [
+      "RPG"
+    ]
+  }
+]
